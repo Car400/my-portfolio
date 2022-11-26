@@ -7,7 +7,7 @@
   
   <h3>Insert Function</h3>
   <ul>
-    <li>-Takes in a string variable and uses hashing functions to sort it into the array. If there is a collison, then call the rehashing function to find the next        available index</li>
+    <li>Takes in a string variable and uses hashing functions to sort it into the array. If there is a collison, then call the rehashing function to find the next        available index</li>
   </ul>
   
   <h3>Search Function</h3>

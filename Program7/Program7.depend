@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1669083860 source:c:\cs 3358\program7\f2022_3358_07_project_carlos_ravago.cpp
+	<iostream>
+	<string>
+	<fstream>
+
